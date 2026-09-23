@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Tran Ngoc Han — Data, AI and Software</title><desc id="desc">Pastel editorial banner for Tran Ngoc Han's GitHub profile</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4fffccb"/><stop offset=".5" stop-color="#f4efff"/><stop offset="1" stop-color="#fff0f7"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#319d8e"/><stop offset=".5" stop-color="#5f82d7"/><stop offset="1" stop-color="#a05d9e"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#675987" flood-opacity=".13"/></filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <path d="M0 315C215 265 380 351 598 302s404-23 602-84v142H0z" fill="#ffffff" opacity=".58"/>
+  <circle cx="1040" cy="74" r="116" fill="none" stroke="#8064b8" opacity=".14"/><circle cx="1040" cy="74" r="78" fill="none" stroke="#319d8e" opacity=".18" stroke-dasharray="7 8"/>
+  <rect x="70" y="55" width="76" height="76" rx="14" fill="#fff" stroke="#319d8e" stroke-width="2" transform="rotate(-3 108 93)" filter="url(#shadow)"/><text x="108" y="102" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#51466f">NH</text>
+  <text x="70" y="185" font-family="Arial,sans-serif" font-size="52" font-weight="800" letter-spacing="-2" fill="#29243f">Tran Ngoc Han</text>
+  <rect x="70" y="208" width="490" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="70" y="256" font-family="Arial,sans-serif" font-size="22" font-weight="600" fill="#5f5875">DATA SCIENCE · AI/ML RESEARCH · SOFTWARE</text>
+  <text x="70" y="297" font-family="Arial,sans-serif" font-size="18" fill="#69617f">Turning complex data into useful systems.</text>
+  <g transform="translate(840 147)" filter="url(#shadow)"><rect width="286" height="132" rx="18" fill="#fff" fill-opacity=".82" stroke="#7865a1" stroke-opacity=".26"/><text x="27" y="37" font-family="monospace" font-size="13" font-weight="700" letter-spacing="2" fill="#319d8e">CURRENT FOCUS</text><text x="27" y="75" font-family="Arial,sans-serif" font-size="24" font-weight="800" fill="#29243f">Data × AI × Software</text><text x="27" y="105" font-family="Arial,sans-serif" font-size="14" fill="#69617f">Research with practical outcomes.</text></g>
+</svg>
+
