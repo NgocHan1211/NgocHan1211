@@ -78,20 +78,9 @@ The work covers dataset curation, a structured two-round annotation process, qua
 | **Software Engineering** | TypeScript, Express, REST APIs, HTTP, Git/GitHub, Docker fundamentals, Linux CLI |
 | **Quality & Collaboration** | Data validation, annotation QA, consistency checking, technical documentation, Jira, Trello |
 
-## Experience
-
-**AI Agent Development Intern · TPC Business Solution**  
-`Jul 2026 – Sep 2026`
-
-Contributed to an AI agent for payroll automation, including business workflow analysis, data handling, and validation of automated outputs.
-
 ## Education & credentials
 
 - **Bachelor of Data Science**, University of Information Technology, VNU-HCM — expected 2027
-- **Google Data Analytics Professional Certificate**
-- **Google AI Professional Certificate**
-- **TOPCIT** — 318, Level 2
-- **VSTEP English Proficiency** — B2
 
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Let's build useful systems from reliable data" />
