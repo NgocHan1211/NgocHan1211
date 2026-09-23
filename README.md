@@ -13,10 +13,6 @@
 
 I am a **Data Science student at the University of Information Technology, VNU-HCM**, working across analytics, AI/ML research, dataset quality, and backend development. I enjoy turning complex data into evidence people can understand and systems they can use.
 
-```text
-CURRENT FOCUS
-Data Analytics  ×  Applied AI  ×  Reliable Software
-```
 
 - 🔬 Research author of **ViMMSarc-Fine**, accepted at **KSE 2026, Japan**
 - 📊 Experienced with Python, SQL, PostgreSQL, visualization, and machine learning
