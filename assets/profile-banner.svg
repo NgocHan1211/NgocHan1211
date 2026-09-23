@@ -13,7 +13,7 @@
   <rect x="70" y="55" width="76" height="76" rx="14" fill="#fff" stroke="#319d8e" stroke-width="2" transform="rotate(-3 108 93)" filter="url(#shadow)"/><text x="108" y="102" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#51466f">NH</text>
   <text x="70" y="185" font-family="Arial,sans-serif" font-size="52" font-weight="800" letter-spacing="-2" fill="#29243f">Tran Ngoc Han</text>
   <rect x="70" y="208" width="490" height="5" rx="2.5" fill="url(#accent)"/>
-  <text x="70" y="256" font-family="Arial,sans-serif" font-size="22" font-weight="600" fill="#5f5875">DATA SCIENCE · AI/ML RESEARCH · SOFTWARE</text>
+  <text x="70" y="256" font-family="Arial,sans-serif" font-size="22" font-weight="600" fill="#5f5875">DATA SCIENCE · AI/ML RESEARCH · QA</text>
   <text x="70" y="297" font-family="Arial,sans-serif" font-size="18" fill="#69617f">Turning complex data into useful systems.</text>
   <g transform="translate(1000 181)">
     <g opacity=".62">
