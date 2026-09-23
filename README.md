@@ -14,7 +14,6 @@
 I am a **Data Science student at the University of Information Technology, VNU-HCM**, working across analytics, AI/ML research, dataset quality, and backend development. I enjoy turning complex data into evidence people can understand and systems they can use.
 
 
-- 🔬 Research author of **ViMMSarc-Fine**, accepted at **KSE 2026, Japan**
 - 📊 Experienced with Python, SQL, PostgreSQL, visualization, and machine learning
 - 🧩 Built and validated Vietnamese social media datasets with structured annotation workflows
 - ⚙️ Developing analytics services and agentic AI applications with TypeScript and Python
