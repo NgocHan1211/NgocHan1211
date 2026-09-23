@@ -22,6 +22,7 @@ Data Analytics  ×  Applied AI  ×  Reliable Software
 - 📊 Experienced with Python, SQL, PostgreSQL, visualization, and machine learning
 - 🧩 Built and validated Vietnamese social media datasets with structured annotation workflows
 - ⚙️ Developing analytics services and agentic AI applications with TypeScript and Python
+- 🤖 Contributed to a payroll automation AI agent during a two-month internship at TPC Business Solution
 - 🌱 Currently learning **LangChain** and preparing for **AWS Certified Machine Learning Engineer — Associate**
 - 💼 Open to internship and entry-level opportunities
 
@@ -92,4 +93,5 @@ The work covers dataset curation, a structured two-round annotation process, qua
   <a href="https://www.linkedin.com/in/han-tran-ngoc-158033366/">LinkedIn</a> ·
   <a href="mailto:ngochann051211@gmail.com">Email</a>
 </p>
+
 
