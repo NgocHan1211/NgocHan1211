@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner-animated.gif" width="100%" alt="Tran Ngoc Han — Data, AI and Software" />
+  <img src="assets/profile-banner.svg" width="100%" alt="Tran Ngoc Han — Data, AI and Software" />
 </p>
 
 <p align="center">
@@ -88,6 +88,7 @@ The work covers dataset curation, a structured two-round annotation process, qua
   <a href="https://www.linkedin.com/in/han-tran-ngoc-158033366/">LinkedIn</a> ·
   <a href="mailto:ngochann051211@gmail.com">Email</a>
 </p>
+
 
 
 
