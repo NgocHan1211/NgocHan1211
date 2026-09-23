@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Tran Ngoc Han — Data, AI and QA" />
+  <img src="assets/profile-banner.svg" width="100%" alt="Tran Ngoc Han — Data, AI and Software" />
 </p>
 
 <p align="center">
