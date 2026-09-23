@@ -19,7 +19,6 @@ I am a **Data Science student at the University of Information Technology, VNU-H
 - 🧩 Built and validated Vietnamese social media datasets with structured annotation workflows
 - ⚙️ Developing analytics services and agentic AI applications with TypeScript and Python
 - 🤖 Contributed to a payroll automation AI agent during a two-month internship at TPC Business Solution
-- 🌱 Currently learning **LangChain** and preparing for **AWS Certified Machine Learning Engineer — Associate**
 - 💼 Open to internship and entry-level opportunities
 
 ## Selected work
