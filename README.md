@@ -28,7 +28,7 @@ I am a **Data Science student at the University of Information Technology, VNU-H
       <img src="assets/vimmsarc-cover.svg" width="100%" alt="ViMMSarc-Fine project cover" />
       <h3>ViMMSarc-Fine</h3>
       <p>A 7,355-sample Vietnamese multimodal sarcasm dataset with fine-grained text, image, and multimodal labels. Research paper accepted at KSE 2026 in Japan.</p>
-      <p><strong>Dataset Curation · Multimodal NLP · Annotation QA · Benchmarking</strong></p>
+      <p><strong>Dataset Curation · Multimodal NLP · Annotation · Benchmarking</strong></p>
       <a href="https://github.com/nhatvu205/vi-multimodal-sacarsm-detection-on-social-media">Explore repository →</a>
     </td>
     <td width="50%" valign="top">
